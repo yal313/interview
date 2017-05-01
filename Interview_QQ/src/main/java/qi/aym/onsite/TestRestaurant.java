@@ -1,4 +1,4 @@
-package qi.amazon.onsite;
+package qi.aym.onsite;
 
 import java.util.ArrayList;
 import java.util.Calendar;
